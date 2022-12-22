@@ -1,0 +1,6 @@
+pandas
+spacy
+tqdm
+python-time
+pickle5
+pathlib
